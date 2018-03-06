@@ -1,2 +1,4 @@
 # Hand-on-machine-learning
-About how to do data cleaning and using Tensorflow
+This is an experience of reading Hand-on-machine-learning book. This is about how to do data pre-processing, how to use some gerenal machine learning algorithms and using Tensorflow to build the different models.
+
+
